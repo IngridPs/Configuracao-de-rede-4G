@@ -1,0 +1,1 @@
+# Configuracao-de-rede-4G
