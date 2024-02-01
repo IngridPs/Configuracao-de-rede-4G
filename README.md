@@ -6,9 +6,10 @@ Bem-vindo ao tutorial de configuração de uma rede 4G com srsRAN! Este guia pas
 Antes de começar, certifique-se de que possui os seguintes pré-requisitos em vigor:
 
 * Hardware compatível com a execução do srsRAN, como dispositivos SDR (Software-Defined Radio) ou placas de rede compatíveis.
-* Um sistema Linux para hospedar o srsRAN.
-* Conhecimentos básicos de redes e telecomunicações.
-* Conexão à Internet para baixar e instalar o software necessário.
+* Antenas de RF
+* Conexão do USB 3.0 com o computador utilizado.
+* Cartão SIM
+* Smartphone com acesso a 4G
 
 ### Passos do Tutorial
 Nosso tutorial é dividido em várias etapas principais:
