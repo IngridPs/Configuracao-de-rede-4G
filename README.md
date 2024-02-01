@@ -22,8 +22,10 @@ Nosso tutorial é dividido em várias etapas principais:
 * Crialçao de máscara para usar a rede
 * Execução dos binários utilizando a rede configurada pelo srsRAN
 
+***
 Contribuições
 Contribuições são bem-vindas! Se você encontrar erros, tiver melhorias a sugerir ou quiser adicionar informações adicionais ao tutorial, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+***
 Licença
 Este tutorial está licenciado sob a Licença MIT, o que significa que você é livre para usá-lo, modificá-lo e distribuí-lo conforme desejar. No entanto, agradecemos se você mencionar a fonte original e contribuir de volta para a comunidade de código aberto.
