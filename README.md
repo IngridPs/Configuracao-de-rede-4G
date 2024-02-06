@@ -20,11 +20,11 @@ Nosso tutorial é dividido em várias etapas principais:
 * [Instalação do driver do USRP](https://github.com/IngridPs/Configuracao-de-rede-4G/wiki/Instala%C3%A7%C3%A3o-do-driver-do-USRP)
 * [Instalação do srsRAN_4G](https://github.com/IngridPs/Configuracao-de-rede-4G/wiki/Instala%C3%A7%C3%A3o-do-srsRAN)
 * [Configuração do srsepc como núcleo da rede](https://github.com/IngridPs/Configuracao-de-rede-4G/wiki/Configura%C3%A7%C3%A3o-do-srsepc-como-n%C3%BAcleo-da-rede)
+* [Configuração do srsUE](https://github.com/IngridPs/Configuracao-de-rede-4G/wiki/Configura%C3%A7%C3%A3o-do-srsUE)
+* [Configuração do srsENB](https://github.com/IngridPs/Configuracao-de-rede-4G/wiki/Configura%C3%A7%C3%A3o-do-srsENB)
 * [Criação de máscara para usar a rede](https://github.com/IngridPs/Configuracao-de-rede-4G/wiki/Cria%C3%A7%C3%A3o-de-m%C3%A1scara-para-usar-a-rede)
 * [Criação de APN](https://github.com/IngridPs/Configuracao-de-rede-4G/wiki/Cria%C3%A7%C3%A3o-de-APN)
 * [Execução dos binários utilizando a rede configurada pelo srsRAN](https://github.com/IngridPs/Configuracao-de-rede-4G/wiki/Execu%C3%A7%C3%A3o-dos-bin%C3%A1rios-utilizando-a-rede-configurada-pelo-srsRAN)
-* [Configuração do srsUE](https://github.com/IngridPs/Configuracao-de-rede-4G/wiki/Configura%C3%A7%C3%A3o-do-srsUE)
-* [Configuração do srsENB](https://github.com/IngridPs/Configuracao-de-rede-4G/wiki/Configura%C3%A7%C3%A3o-do-srsENB)
 
 ***
 ### Contribuições
